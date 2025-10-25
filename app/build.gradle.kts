@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.kewiiis.sensordashboard"
+    namespace = "edu.isep.sensordashboard"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.myapplicationtest"
+        applicationId = "edu.isep.sensordashboard"
         minSdk = 29
         targetSdk = 35
         versionCode = 1
