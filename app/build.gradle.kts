@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplicationtest"
+    namespace = "com.kewiiis.sensordashboard"
     compileSdk = 36
 
     defaultConfig {
