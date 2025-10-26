@@ -1,4 +1,4 @@
-package com.example.myapplicationtest.ui.theme
+package com.isep.sensordashboard.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

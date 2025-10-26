@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "edu.isep.sensordashboard"
+    namespace = "com.isep.sensordashboard"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "edu.isep.sensordashboard"
+        applicationId = "com.isep.sensordashboard"
         minSdk = 29
         targetSdk = 35
         versionCode = 1
