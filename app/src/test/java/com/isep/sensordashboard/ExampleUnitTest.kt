@@ -1,4 +1,4 @@
-package com.example.myapplicationtest
+package com.isep.sensordashboard
 
 import org.junit.Test
 
