@@ -1,4 +1,4 @@
-package com.example.myapplicationtest
+package com.isep.sensordashboard
 
 import android.content.Context
 import android.hardware.Sensor
@@ -23,7 +23,7 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
-import com.example.myapplicationtest.ui.theme.MyApplicationTestTheme
+import com.isep.sensordashboard.ui.theme.MyApplicationTestTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
