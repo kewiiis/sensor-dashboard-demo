@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Sensor Dashboard</string>
+    <string name="title_dashboard">Sensor Dashboard</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="dashboard_empty">No supported sensors detected.</string>
+    <string name="dashboard_empty_retry">Try again</string>
+    <string name="dashboard_card_hint">Tap to open live readings</string>
+    <string name="detail_title">Sensor detail</string>
+    <string name="nav_back">Back</string>
+    <string name="detail_select_prompt">Select a sensor to see live readings.</string>
+    <string name="detail_waiting">Waiting for values...</string>
+    <string name="detail_sampling_rate">Sampling rate</string>
+    <string name="status_streaming">Streaming</string>
+    <string name="status_paused">Paused</string>
 </resources>
